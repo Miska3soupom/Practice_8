@@ -1,0 +1,82 @@
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\vipief.exe
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\vipief.deps.json
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\vipief.runtimeconfig.json
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\vipief.dll
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\vipief.pdb
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\kiss_\source\repos\vipief\vipief\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.cache
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.lref
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\App.baml
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.g.resources
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.CopyComplete
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.dll
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\refint\vipief.dll
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.pdb
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\vipief.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\ref\vipief.dll
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\kiss_\source\repos\vipief\vipief\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\vipief.exe
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\vipief.deps.json
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\vipief.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\vipief.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\vipief.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.lref
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\App.baml
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.g.resources
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.csproj.CopyComplete
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\refint\vipief.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\vipief.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\obj\Debug\net6.0-windows\ref\vipief.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\vipief\vipief\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\vipief.exe
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\vipief.deps.json
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\vipief.runtimeconfig.json
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\vipief.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\vipief.pdb
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\WpfCustomControlLibrary1.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\bin\Debug\net6.0-windows\WpfCustomControlLibrary1.pdb
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.csproj.AssemblyReference.cache
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.cache
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief_MarkupCompile.lref
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\App.baml
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.g.resources
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfoInputs.cache
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.AssemblyInfo.cs
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.csproj.CoreCompileInputs.cache
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.csproj.CopyComplete
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\refint\vipief.dll
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.pdb
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\vipief.genruntimeconfig.cache
+C:\Users\79663\Desktop\prrrrrrrr7\vipief\obj\Debug\net6.0-windows\ref\vipief.dll

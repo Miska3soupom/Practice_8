@@ -1,0 +1,31 @@
+﻿<Window x:Class="vipief.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vipief"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="347" Width="547">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="Grid123" ItemsSource="{Binding Colours}" SelectedItem="{Binding Selected}" CanUserAddRows="False" CanUserResizeRows="False" CanUserDeleteRows="False"/>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Название:" TextAlignment="Center"/>
+            <TextBox x:Name="NameBox" Text="{Binding Selected.Name}"/>
+            <TextBlock Text="Количество:" TextAlignment="Center"/>
+            <TextBox x:Name="KolvoBox" Text="{Binding Selected.Kolichstvo}"/>
+            <TextBlock Text="Цена:" TextAlignment="Center"/>
+            <TextBox x:Name="PriceBox" Text="{Binding Selected.Price}"/>
+        </StackPanel>
+        <Button  Style="{DynamicResource ButtonFocusVisual}" Content="Добавить" Margin="32,147,190,147" Cursor="Hand" Command="{Binding AddCommand}"  />
+        <Button Style="{DynamicResource sssss}" Content="Удалить" Margin="232,192,1,56" Cursor="Hand" Command="{Binding DeleteCommand}" />
+        <Button Style="{DynamicResource qq}"  Content="Сохранение" Margin="196,84,168,124" Cursor="Hand" Command="{Binding SohranenieCommand}"  Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
+    
